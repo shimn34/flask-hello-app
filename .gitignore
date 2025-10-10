@@ -1,0 +1,4 @@
+# .gitignore をプロジェクト直下に作成して中にこれを書く
+.venv/
+__pycache__/
+*.pyc
